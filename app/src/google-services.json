@@ -12,7 +12,20 @@
           "package_name": "com.project.zesttask"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "16160364889-95u10eqcdkvaj4gvru4lcaal44mklbcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.zesttask",
+            "certificate_hash": "1245f3ad660ef60bd2418acbebc250f26ecc9545"
+          }
+        },
+        {
+          "client_id": "16160364889-fsg9nipnvb0th5f56vqir16oor6p894j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBgEm7E2mCgEy5rv4DE4jKG09nuSn9KNpg"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16160364889-fsg9nipnvb0th5f56vqir16oor6p894j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
