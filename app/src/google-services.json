@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16160364889",
+    "project_id": "zest-task-a81a1",
+    "storage_bucket": "zest-task-a81a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16160364889:android:a71649a6df012c00f19448",
+        "android_client_info": {
+          "package_name": "com.project.zesttask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEm7E2mCgEy5rv4DE4jKG09nuSn9KNpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
